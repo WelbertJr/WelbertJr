@@ -19,4 +19,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelbertJr&layout=compact&langs_count=7&theme=dark"/>
 
     ![Snake animation](https://github.com/WelbertJr/WelbertJr/blob/output/github-contribution-grid-snake.svg)
-    </div>
+   
+</div>
