@@ -3,8 +3,8 @@
 
 
 - 🌱 Aluno de Sistemas da Informação, estudo na PUC Minas e estou no 3° período.
-- 👯 Atualmente estou focando meus estudos em [.Net](https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2)[ e C#](https://github.com/WelbertJr/Projetos-C-Sharp).
-- 🤔 No momento estou procurando uma oportunidade de emprego na área de TI.
+- Atualmente estou focando meus estudos em React.
+- Em busca da primeira oportunidade de emprego na área de TI.
 - 💬 Fiz parte de dois projetos em equipe desenvolvidos na faculdade: No [Cliptich](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t1-clipitch) tive um forte contato com front-end, desenvolvemos uma aplicação Web de conteúdo de interesse utilizando como base a API da Twitch. Já no projeto [Condomínio](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e2-proj-bpm-t1-condominio), elaboramos uma aplicação para processos de negócios usando a ferramenta low-code [Sydle One](https://www.sydle.com/br/).
 
 ## Me encontre no:
