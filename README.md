@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Aluno de Sistemas da Informação, estudo na PUC Minas e estou no 4° período.
+- 🌱 Aluno de Sistemas da Informação, estudo na PUC Minas e estou no 5° período.
 - Atualmente estou focando meus estudos em ReactJS e no Adobe Experience Manager.
 - Em busca da primeira oportunidade de emprego na área de TI.
 
