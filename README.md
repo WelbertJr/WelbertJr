@@ -4,7 +4,7 @@
 
 - 🌱 Aluno de Sistemas da Informação, estudo na PUC Minas e estou no 5° período.
 - Atualmente estou focando meus estudos em ReactJS e no Adobe Experience Manager.
-- Em busca da primeira oportunidade de emprego na área de TI.
+
 
 ## Me encontre no:
 <a href="https://www.linkedin.com/in/welbert-junior-2458b4167/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
