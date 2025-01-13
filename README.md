@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Aluno de Sistemas da Informação, estudo na PUC Minas e estou no 8° período.
+- Formado em Sistemas de Informação.
 - Atualmente estou atuando com React e Adobe Experience Manager.
 
 
